@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		server ZALUPA
 	</h1>
 
 	<h2>
